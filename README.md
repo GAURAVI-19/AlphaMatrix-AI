@@ -91,3 +91,46 @@ Comprehensive documentation is available in the [`docs/`](./docs) directory:
 13. [Presentation (PPT) Content](./docs/PPT_CONTENT.md)
 14. [Project Abstract](./docs/PROJECT_ABSTRACT.md)
 15. [Resume Project Description](./docs/RESUME_PROJECT_DESCRIPTION.md)
+
+---------------------------------------------------------------------------------
+## 📸 Live Screenshots
+
+### Executive Dashboard
+
+![Executive Dashboard](assets/executive_dashboard_live.png)
+
+---
+
+### AI Prediction Engine
+
+![AI Prediction](assets/ai_prediction.png)
+
+---
+
+### SHAP Explainability
+
+![SHAP Chart](assets/shap_chart.png)
+
+---
+
+### Human Approval Queue
+
+![Human Approval](assets/human_approval.png)
+
+---
+
+### Security Audit Logs
+
+![Security Audit Logs](assets/security_audit_logs_live.png)
+
+---
+
+### Analytics Dashboard
+
+![Analytics](assets/analytics.png)
+
+---
+
+### Settings
+
+![Settings](assets/settings.png)
